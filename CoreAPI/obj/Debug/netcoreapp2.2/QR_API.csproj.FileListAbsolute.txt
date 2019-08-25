@@ -1,0 +1,15 @@
+I:\Project\azuredepops\repos\ijooz-QR\CoreAPI\bin\Debug\netcoreapp2.2\QR_API.deps.json
+I:\Project\azuredepops\repos\ijooz-QR\CoreAPI\bin\Debug\netcoreapp2.2\QR_API.runtimeconfig.json
+I:\Project\azuredepops\repos\ijooz-QR\CoreAPI\bin\Debug\netcoreapp2.2\QR_API.runtimeconfig.dev.json
+I:\Project\azuredepops\repos\ijooz-QR\CoreAPI\bin\Debug\netcoreapp2.2\QR_API.dll
+I:\Project\azuredepops\repos\ijooz-QR\CoreAPI\obj\Debug\netcoreapp2.2\QR_API.csprojAssemblyReference.cache
+I:\Project\azuredepops\repos\ijooz-QR\CoreAPI\obj\Debug\netcoreapp2.2\QR_API.csproj.CoreCompileInputs.cache
+I:\Project\azuredepops\repos\ijooz-QR\CoreAPI\obj\Debug\netcoreapp2.2\QR_API.RazorAssemblyInfo.cache
+I:\Project\azuredepops\repos\ijooz-QR\CoreAPI\obj\Debug\netcoreapp2.2\QR_API.RazorAssemblyInfo.cs
+I:\Project\azuredepops\repos\ijooz-QR\CoreAPI\obj\Debug\netcoreapp2.2\QR_API.AssemblyInfoInputs.cache
+I:\Project\azuredepops\repos\ijooz-QR\CoreAPI\obj\Debug\netcoreapp2.2\QR_API.AssemblyInfo.cs
+I:\Project\azuredepops\repos\ijooz-QR\CoreAPI\obj\Debug\netcoreapp2.2\QR_API.RazorTargetAssemblyInfo.cache
+I:\Project\azuredepops\repos\ijooz-QR\CoreAPI\bin\Debug\netcoreapp2.2\QR_API.pdb
+I:\Project\azuredepops\repos\ijooz-QR\CoreAPI\obj\Debug\netcoreapp2.2\QR_API.dll
+I:\Project\azuredepops\repos\ijooz-QR\CoreAPI\obj\Debug\netcoreapp2.2\QR_API.pdb
+I:\Project\azuredepops\repos\ijooz-QR\CoreAPI\bin\Debug\netcoreapp2.2\log4net.config

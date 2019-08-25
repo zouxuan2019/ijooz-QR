@@ -1,0 +1,11 @@
+I:\Project\azuredepops\repos\ijooz-QR\QR_API_Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+I:\Project\azuredepops\repos\ijooz-QR\QR_API_Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+I:\Project\azuredepops\repos\ijooz-QR\QR_API_Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+I:\Project\azuredepops\repos\ijooz-QR\QR_API_Test\bin\Debug\netcoreapp2.2\QR_API_Test.deps.json
+I:\Project\azuredepops\repos\ijooz-QR\QR_API_Test\bin\Debug\netcoreapp2.2\QR_API_Test.runtimeconfig.json
+I:\Project\azuredepops\repos\ijooz-QR\QR_API_Test\bin\Debug\netcoreapp2.2\QR_API_Test.runtimeconfig.dev.json
+I:\Project\azuredepops\repos\ijooz-QR\QR_API_Test\bin\Debug\netcoreapp2.2\QR_API_Test.dll
+I:\Project\azuredepops\repos\ijooz-QR\QR_API_Test\obj\Debug\netcoreapp2.2\QR_API_Test.csprojAssemblyReference.cache
+I:\Project\azuredepops\repos\ijooz-QR\QR_API_Test\obj\Debug\netcoreapp2.2\QR_API_Test.csproj.CoreCompileInputs.cache
+I:\Project\azuredepops\repos\ijooz-QR\QR_API_Test\obj\Debug\netcoreapp2.2\QR_API_Test.AssemblyInfoInputs.cache
+I:\Project\azuredepops\repos\ijooz-QR\QR_API_Test\obj\Debug\netcoreapp2.2\QR_API_Test.AssemblyInfo.cs

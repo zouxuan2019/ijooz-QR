@@ -1,0 +1,79 @@
+2019-05-31 20:52:58,399  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 DEBUG http://localhost:5062/  0
+ 2019-05-31 20:52:58,399  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 GET http://localhost:44377/swagger  
+ 2019-05-31 20:52:58,445  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 49.7827ms 200 
+ 2019-05-31 20:52:58,711  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 314.1431ms 301 
+ 2019-05-31 20:52:58,716  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 GET http://localhost:44377/swagger/index.html  
+ 2019-05-31 20:52:58,841  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 123.6954ms 200 text/html;charset=utf-8
+ 2019-05-31 20:52:58,876  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 GET http://localhost:44377/swagger/swagger-ui.css  
+ 2019-05-31 20:52:58,898  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 GET http://localhost:44377/swagger/swagger-ui-standalone-preset.js  
+ 2019-05-31 20:52:58,905  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 GET http://localhost:44377/swagger/swagger-ui-bundle.js  
+ 2019-05-31 20:52:58,984  INFO Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.? [?] - MESSAGE: Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+ 2019-05-31 20:52:58,994  INFO Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.? [?] - MESSAGE: Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+ 2019-05-31 20:52:59,028  INFO Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.? [?] - MESSAGE: Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+ 2019-05-31 20:52:59,036  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 131.4825ms 200 application/javascript
+ 2019-05-31 20:52:59,040  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 169.1673ms 200 text/css
+ 2019-05-31 20:52:59,046  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 138.7703ms 200 application/javascript
+ 2019-05-31 20:52:59,311  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 GET http://localhost:44377/swagger/v1/swagger.json  
+ 2019-05-31 20:52:59,438  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 125.9825ms 200 application/json;charset=utf-8
+ 2019-05-31 20:53:20,852  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 GET http://localhost:44377/api/Req?TransId=abrjjgjjfch552iff54hkl&TransTime=2019-08-01&ReqType=New&PartnerID=FV&UserID=AA&QRCode=&Currency=SGD&UnitPrice=2.11&Qty=10&ExpiryDate=2019-11-01&Signature=aaaaaa  
+ 2019-05-31 20:53:20,860  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 10.4828ms 404 
+ 2019-05-31 20:53:39,453  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 POST http://localhost:44377/api/ProductList/ application/json 39
+ 2019-05-31 20:53:39,495  INFO Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Route matched with {action = "Post", controller = "ProductList"}. Executing action CoreAPI.Controllers.ProductListController.Post (QR_API)
+ 2019-05-31 20:53:39,704  INFO Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.? [?] - MESSAGE: Failed to validate the token.
+ Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: '[PII is hidden]', Current time: '[PII is hidden]'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2019-05-31 20:53:39,712  INFO Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.? [?] - MESSAGE: Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo: '[PII is hidden]', Current time: '[PII is hidden]'.
+ 2019-05-31 20:53:39,721  INFO Microsoft.AspNetCore.Authorization.DefaultAuthorizationService.? [?] - MESSAGE: Authorization failed.
+ 2019-05-31 20:53:39,729  INFO Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Authorization failed for the request at filter 'Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter'.
+ 2019-05-31 20:53:39,738  INFO Microsoft.AspNetCore.Mvc.ChallengeResult.? [?] - MESSAGE: Executing ChallengeResult with authentication schemes (Bearer).
+ 2019-05-31 20:53:39,746  INFO Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.? [?] - MESSAGE: AuthenticationScheme: Bearer was challenged.
+ 2019-05-31 20:53:39,753  INFO Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executed action CoreAPI.Controllers.ProductListController.Post (QR_API) in 251.1715ms
+ 2019-05-31 20:53:39,758  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 312.6048ms 401 
+ 2019-05-31 20:53:39,774  INFO Microsoft.AspNetCore.Server.Kestrel.? [?] - MESSAGE: Connection id "0HLN5ORK3QCPF", Request id "0HLN5ORK3QCPF:00000002": the application completed without reading the entire request body.
+ 2019-05-31 20:54:22,767  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 POST http://localhost:44377/api/NewQR application/json 343
+ 2019-05-31 20:54:22,803  INFO Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Route matched with {action = "Post", controller = "NewQR"}. Executing action CoreAPI.Controllers.NewQRController.Post (QR_API)
+ 2019-05-31 20:54:22,811  INFO Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.? [?] - MESSAGE: Successfully validated the token.
+ 2019-05-31 20:54:22,816  INFO Microsoft.AspNetCore.Authorization.DefaultAuthorizationService.? [?] - MESSAGE: Authorization was successful.
+ 2019-05-31 20:54:22,902  INFO Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executing action method CoreAPI.Controllers.NewQRController.Post (QR_API) with arguments (CoreAPI.Models.NewQRModel+NewQRReq) - Validation state: Valid
+ 2019-05-31 20:54:22,911  INFO Controllers.QRController.? [?] - MESSAGE: start request new QR service
+ 2019-05-31 20:54:33,123  INFO Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executed action method CoreAPI.Controllers.NewQRController.Post (QR_API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 10214.3806ms.
+ 2019-05-31 20:54:33,136  INFO Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor.? [?] - MESSAGE: Executing ObjectResult, writing value of type 'CoreAPI.Models.NewQRModel+NewQR_Fail'.
+ 2019-05-31 20:54:33,147  INFO Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executed action CoreAPI.Controllers.NewQRController.Post (QR_API) in 10338.6559ms
+ 2019-05-31 20:54:33,155  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 10412.4031ms 200 application/json; charset=utf-8
+ 2019-05-31 20:54:40,551  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 POST http://localhost:44377/api/NewQR application/json 339
+ 2019-05-31 20:54:40,557  INFO Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Route matched with {action = "Post", controller = "NewQR"}. Executing action CoreAPI.Controllers.NewQRController.Post (QR_API)
+ 2019-05-31 20:54:40,567  INFO Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.? [?] - MESSAGE: Successfully validated the token.
+ 2019-05-31 20:54:40,572  INFO Microsoft.AspNetCore.Authorization.DefaultAuthorizationService.? [?] - MESSAGE: Authorization was successful.
+ 2019-05-31 20:54:40,605  INFO Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executing action method CoreAPI.Controllers.NewQRController.Post (QR_API) with arguments (CoreAPI.Models.NewQRModel+NewQRReq) - Validation state: Valid
+ 2019-05-31 20:54:40,610  INFO Controllers.QRController.? [?] - MESSAGE: start request new QR service
+ 2019-05-31 20:54:43,518  INFO Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executed action method CoreAPI.Controllers.NewQRController.Post (QR_API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 2907.6159ms.
+ 2019-05-31 20:54:43,529  INFO Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor.? [?] - MESSAGE: Executing ObjectResult, writing value of type 'CoreAPI.Models.NewQRModel+NewQR_OK'.
+ 2019-05-31 20:54:43,538  INFO Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executed action CoreAPI.Controllers.NewQRController.Post (QR_API) in 2974.8397ms
+ 2019-05-31 20:54:43,544  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 2993.3837ms 200 application/json; charset=utf-8
+ 2019-05-31 21:01:48,313  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 DEBUG http://localhost:5062/  0
+ 2019-05-31 21:01:48,313  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 GET http://localhost:44377/swagger/index.html  
+ 2019-05-31 21:01:48,360  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 52.47ms 200 
+ 2019-05-31 21:01:48,622  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 318.477ms 200 text/html;charset=utf-8
+ 2019-05-31 21:01:49,037  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 GET http://localhost:44377/swagger/v1/swagger.json  
+ 2019-05-31 21:01:49,176  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 122.3667ms 200 application/json;charset=utf-8
+ 2019-05-31 21:02:16,713  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 POST http://localhost:44377/api/QrBalance application/json 21
+ 2019-05-31 21:02:16,768  INFO Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Route matched with {action = "Post", controller = "QrBalance"}. Executing action CoreAPI.Controllers.QrBalanceController.Post (QR_API)
+ 2019-05-31 21:02:16,887  INFO Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.? [?] - MESSAGE: Successfully validated the token.
+ 2019-05-31 21:02:16,901  INFO Microsoft.AspNetCore.Authorization.DefaultAuthorizationService.? [?] - MESSAGE: Authorization was successful.
+ 2019-05-31 21:02:16,993  INFO Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executing action method CoreAPI.Controllers.QrBalanceController.Post (QR_API) with arguments (CoreAPI.Models.QrBalanceModel+QrBalanceReq) - Validation state: Valid
+ 2019-05-31 21:02:17,001  INFO Controllers.QRController.? [?] - MESSAGE: start get QR balance
+ 2019-05-31 21:02:17,292  INFO Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executed action method CoreAPI.Controllers.QrBalanceController.Post (QR_API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 292.0611ms.
+ 2019-05-31 21:02:17,306  INFO Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor.? [?] - MESSAGE: Executing ObjectResult, writing value of type 'CoreAPI.Models.QrBalanceModel+QrBalance_OK'.
+ 2019-05-31 21:02:17,330  INFO Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executed action CoreAPI.Controllers.QrBalanceController.Post (QR_API) in 554.8303ms
+ 2019-05-31 21:02:17,338  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 625.556ms 200 application/json; charset=utf-8
+ 2019-05-31 21:11:09,137  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 GET http://localhost:44377/swagger/index.html  
+ 2019-05-31 21:11:09,137  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 DEBUG http://localhost:5062/  0
+ 2019-05-31 21:11:09,183  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 53.3002ms 200 
+ 2019-05-31 21:11:09,463  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 332.8645ms 200 text/html;charset=utf-8
+ 2019-05-31 21:11:09,842  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 GET http://localhost:44377/swagger/v1/swagger.json  
+ 2019-05-31 21:11:10,003  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 159.2136ms 200 application/json;charset=utf-8
+ 

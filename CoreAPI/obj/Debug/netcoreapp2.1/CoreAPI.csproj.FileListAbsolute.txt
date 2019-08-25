@@ -1,0 +1,45 @@
+C:\Users\sujay\OneDrive\NUS-sc-yoga\Project\dotnet-sqldb-tutorial-master\CoreAPI\bin\Debug\netcoreapp2.1\CoreAPI.deps.json
+C:\Users\sujay\OneDrive\NUS-sc-yoga\Project\dotnet-sqldb-tutorial-master\CoreAPI\bin\Debug\netcoreapp2.1\CoreAPI.runtimeconfig.json
+C:\Users\sujay\OneDrive\NUS-sc-yoga\Project\dotnet-sqldb-tutorial-master\CoreAPI\bin\Debug\netcoreapp2.1\CoreAPI.runtimeconfig.dev.json
+C:\Users\sujay\OneDrive\NUS-sc-yoga\Project\dotnet-sqldb-tutorial-master\CoreAPI\bin\Debug\netcoreapp2.1\CoreAPI.dll
+C:\Users\sujay\OneDrive\NUS-sc-yoga\Project\dotnet-sqldb-tutorial-master\CoreAPI\bin\Debug\netcoreapp2.1\CoreAPI.pdb
+C:\Users\sujay\OneDrive\NUS-sc-yoga\Project\dotnet-sqldb-tutorial-master\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\sujay\OneDrive\NUS-sc-yoga\Project\dotnet-sqldb-tutorial-master\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.RazorAssemblyInfo.cache
+C:\Users\sujay\OneDrive\NUS-sc-yoga\Project\dotnet-sqldb-tutorial-master\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.RazorAssemblyInfo.cs
+C:\Users\sujay\OneDrive\NUS-sc-yoga\Project\dotnet-sqldb-tutorial-master\CoreAPI\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\sujay\OneDrive\NUS-sc-yoga\Project\dotnet-sqldb-tutorial-master\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.AssemblyInfoInputs.cache
+C:\Users\sujay\OneDrive\NUS-sc-yoga\Project\dotnet-sqldb-tutorial-master\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.AssemblyInfo.cs
+C:\Users\sujay\OneDrive\NUS-sc-yoga\Project\dotnet-sqldb-tutorial-master\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.RazorTargetAssemblyInfo.cache
+C:\Users\sujay\OneDrive\NUS-sc-yoga\Project\dotnet-sqldb-tutorial-master\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.dll
+C:\Users\sujay\OneDrive\NUS-sc-yoga\Project\dotnet-sqldb-tutorial-master\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.pdb
+C:\Users\sujay\OneDrive\NUS-sc-yoga\Project\dotnet-sqldb-tutorial-master\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.csprojAssemblyReference.cache
+C:\Users\Fruits Vending\OneDrive\NUS-sc-yoga\Project\dotnet-sqldb-tutorial-master\CoreAPI\bin\Debug\netcoreapp2.1\CoreAPI.deps.json
+C:\Users\Fruits Vending\OneDrive\NUS-sc-yoga\Project\dotnet-sqldb-tutorial-master\CoreAPI\bin\Debug\netcoreapp2.1\CoreAPI.runtimeconfig.json
+C:\Users\Fruits Vending\OneDrive\NUS-sc-yoga\Project\dotnet-sqldb-tutorial-master\CoreAPI\bin\Debug\netcoreapp2.1\CoreAPI.runtimeconfig.dev.json
+C:\Users\Fruits Vending\OneDrive\NUS-sc-yoga\Project\dotnet-sqldb-tutorial-master\CoreAPI\bin\Debug\netcoreapp2.1\CoreAPI.dll
+C:\Users\Fruits Vending\OneDrive\NUS-sc-yoga\Project\dotnet-sqldb-tutorial-master\CoreAPI\bin\Debug\netcoreapp2.1\CoreAPI.pdb
+C:\Users\Fruits Vending\OneDrive\NUS-sc-yoga\Project\dotnet-sqldb-tutorial-master\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.csprojAssemblyReference.cache
+C:\Users\Fruits Vending\OneDrive\NUS-sc-yoga\Project\dotnet-sqldb-tutorial-master\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\Fruits Vending\OneDrive\NUS-sc-yoga\Project\dotnet-sqldb-tutorial-master\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.RazorAssemblyInfo.cache
+C:\Users\Fruits Vending\OneDrive\NUS-sc-yoga\Project\dotnet-sqldb-tutorial-master\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.RazorAssemblyInfo.cs
+C:\Users\Fruits Vending\OneDrive\NUS-sc-yoga\Project\dotnet-sqldb-tutorial-master\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.AssemblyInfoInputs.cache
+C:\Users\Fruits Vending\OneDrive\NUS-sc-yoga\Project\dotnet-sqldb-tutorial-master\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.AssemblyInfo.cs
+C:\Users\Fruits Vending\OneDrive\NUS-sc-yoga\Project\dotnet-sqldb-tutorial-master\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Fruits Vending\OneDrive\NUS-sc-yoga\Project\dotnet-sqldb-tutorial-master\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.dll
+C:\Users\Fruits Vending\OneDrive\NUS-sc-yoga\Project\dotnet-sqldb-tutorial-master\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.pdb
+C:\Users\Fruits Vending\OneDrive\NUS-sc-yoga\Project\dotnet-sqldb-tutorial-master\CoreAPI\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+I:\Project\API-QR\CoreAPI\bin\Debug\netcoreapp2.1\CoreAPI.deps.json
+I:\Project\API-QR\CoreAPI\bin\Debug\netcoreapp2.1\CoreAPI.runtimeconfig.json
+I:\Project\API-QR\CoreAPI\bin\Debug\netcoreapp2.1\CoreAPI.runtimeconfig.dev.json
+I:\Project\API-QR\CoreAPI\bin\Debug\netcoreapp2.1\CoreAPI.dll
+I:\Project\API-QR\CoreAPI\bin\Debug\netcoreapp2.1\CoreAPI.pdb
+I:\Project\API-QR\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.csprojAssemblyReference.cache
+I:\Project\API-QR\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.csproj.CoreCompileInputs.cache
+I:\Project\API-QR\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.RazorAssemblyInfo.cache
+I:\Project\API-QR\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.RazorAssemblyInfo.cs
+I:\Project\API-QR\CoreAPI\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+I:\Project\API-QR\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.AssemblyInfoInputs.cache
+I:\Project\API-QR\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.AssemblyInfo.cs
+I:\Project\API-QR\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.RazorTargetAssemblyInfo.cache
+I:\Project\API-QR\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.dll
+I:\Project\API-QR\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.pdb

@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c10b8384-f418-4c6b-82d3-a946f0a717d8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CoreAPI/AppSettingsJson.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+              <folding>
+                <marker date="1556446420000" expanded="false" signature="6:191" ph="..." />
+                <marker date="1556446420000" expanded="true" signature="210:1202" ph="{...}" />
+                <marker date="1556446420000" expanded="true" signature="252:1200" ph="{...}" />
+                <marker date="1556446420000" expanded="true" signature="313:508" ph="{...}" />
+                <marker date="1556446420000" expanded="true" signature="567:1192" ph="{...}" />
+                <marker date="1556446420000" expanded="true" signature="812:1145" ph="/* IHostingEnvironment env; ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CoreAPI/Common/httpclientService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+              <folding>
+                <marker date="1557669444000" expanded="false" signature="6:160" ph="..." />
+                <marker date="1557669444000" expanded="true" signature="179:1843" ph="{...}" />
+                <marker date="1557669444000" expanded="true" signature="216:1841" ph="{...}" />
+                <marker date="1557669444000" expanded="true" signature="306:1077" ph="{...}" />
+                <marker date="1557669444000" expanded="true" signature="332:929" ph="{...}" />
+                <marker date="1557669444000" expanded="true" signature="407:915" ph="{...}" />
+                <marker date="1557669444000" expanded="true" signature="686:897" ph="{...}" />
+                <marker date="1557669444000" expanded="true" signature="962:1042" ph="{...}" />
+                <marker date="1557669444000" expanded="true" signature="1142:1835" ph="{...}" />
+                <marker date="1557669444000" expanded="true" signature="1168:1687" ph="{...}" />
+                <marker date="1557669444000" expanded="true" signature="1243:1673" ph="{...}" />
+                <marker date="1557669444000" expanded="true" signature="1389:1655" ph="{...}" />
+                <marker date="1557669444000" expanded="true" signature="1720:1800" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CoreAPI/Common/SHA256.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+              <folding>
+                <marker date="1557905723000" expanded="false" signature="6:114" ph="..." />
+                <marker date="1557905723000" expanded="true" signature="140:881" ph="{...}" />
+                <marker date="1557905723000" expanded="true" signature="176:879" ph="{...}" />
+                <marker date="1557905723000" expanded="true" signature="231:403" ph="{...}" />
+                <marker date="1557905723000" expanded="true" signature="454:873" ph="{...}" />
+                <marker date="1557905723000" expanded="true" signature="736:817" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CoreAPI/Controllers/QrBalanceController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+              <folding>
+                <marker date="1559307701000" expanded="false" signature="6:411" ph="..." />
+                <marker date="1559307701000" expanded="true" signature="442:1983" ph="{...}" />
+                <marker date="1559307701000" expanded="true" signature="603:1981" ph="{...}" />
+                <marker date="1559307701000" expanded="true" signature="748:849" ph="{...}" />
+                <marker date="1559307701000" expanded="true" signature="953:1393" ph="{...}" />
+                <marker date="1559307701000" expanded="true" signature="1039:1215" ph="{...}" />
+                <marker date="1559307701000" expanded="true" signature="1423:1571" ph="[...]" />
+                <marker date="1559307701000" expanded="true" signature="1650:1975" ph="{...}" />
+                <marker date="1559307701000" expanded="true" signature="1908:1962" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CoreAPI/Controllers/TopUpQRController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+              <folding>
+                <marker date="1559307701000" expanded="false" signature="6:597" ph="..." />
+                <marker date="1559307701000" expanded="true" signature="628:5814" ph="{...}" />
+                <marker date="1559307701000" expanded="true" signature="785:5812" ph="{...}" />
+                <marker date="1559307701000" expanded="true" signature="928:1029" ph="{...}" />
+                <marker date="1559307701000" expanded="true" signature="1058:1215" ph="[...]" />
+                <marker date="1559307701000" expanded="true" signature="1292:5806" ph="{...}" />
+                <marker date="1559307701000" expanded="true" signature="1577:1676" ph="{...}" />
+                <marker date="1559307701000" expanded="true" signature="1878:1981" ph="{...}" />
+                <marker date="1559307701000" expanded="true" signature="2021:2126" ph="{...}" />
+                <marker date="1559307701000" expanded="true" signature="2256:2316" ph="{...}" />
+                <marker date="1559307701000" expanded="true" signature="2762:2829" ph="{...}" />
+                <marker date="1559307701000" expanded="true" signature="2951:3055" ph="{...}" />
+                <marker date="1559307701000" expanded="true" signature="3282:4909" ph="{...}" />
+                <marker date="1559307701000" expanded="true" signature="3664:3780" ph="{...}" />
+                <marker date="1559307701000" expanded="true" signature="4127:4252" ph="{...}" />
+                <marker date="1559307701000" expanded="true" signature="4273:4766" ph="{...}" />
+                <marker date="1559307701000" expanded="true" signature="4461:4585" ph="{...}" />
+                <marker date="1559307701000" expanded="true" signature="4610:4748" ph="{...}" />
+                <marker date="1559307701000" expanded="true" signature="4960:5068" ph="{...}" />
+                <marker date="1559307701000" expanded="true" signature="5139:5686" ph="{...}" />
+                <marker date="1559307701000" expanded="true" signature="5193:5672" ph="{...}" />
+                <marker date="1559307701000" expanded="true" signature="5740:5793" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CoreAPI/Service/iJoozAPI.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <folding>
+                <marker date="1558046747000" expanded="false" signature="6:136" ph="..." />
+                <marker date="1558046747000" expanded="true" signature="163:3740" ph="{...}" />
+                <marker date="1558046747000" expanded="true" signature="191:3738" ph="{...}" />
+                <marker date="1558046747000" expanded="true" signature="407:3732" ph="{...}" />
+                <marker date="1558046747000" expanded="false" signature="430:2034" ph="NotUse: HttpWebRequest" />
+                <marker date="1558046747000" expanded="true" signature="473:2011" ph="/* var queryParams = new Dictionary&lt;string, string&gt;() ... */" />
+                <marker date="1558046747000" expanded="true" signature="2090:3722" ph="{...}" />
+                <marker date="1558046747000" expanded="true" signature="3291:3549" ph="{...}" />
+                <marker date="1558046747000" expanded="true" signature="3588:3708" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CoreAPI/Service/eWalletAPI.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+              <folding>
+                <marker date="1558320191000" expanded="false" signature="6:179" ph="..." />
+                <marker date="1558320191000" expanded="true" signature="206:2865" ph="{...}" />
+                <marker date="1558320191000" expanded="true" signature="236:2863" ph="{...}" />
+                <marker date="1558320191000" expanded="true" signature="333:1051" ph="{...}" />
+                <marker date="1558320191000" expanded="true" signature="398:1041" ph="{...}" />
+                <marker date="1558320191000" expanded="true" signature="625:867" ph="{...}" />
+                <marker date="1558320191000" expanded="true" signature="906:1026" ph="{...}" />
+                <marker date="1558320191000" expanded="true" signature="1160:1704" ph="{...}" />
+                <marker date="1558320191000" expanded="true" signature="1411:1469" ph="{...}" />
+                <marker date="1558320191000" expanded="true" signature="1562:1619" ph="{...}" />
+                <marker date="1558320191000" expanded="true" signature="1636:1694" ph="{...}" />
+                <marker date="1558320191000" expanded="true" signature="1884:2856" ph="{...}" />
+                <marker date="1558320191000" expanded="true" signature="1949:2846" ph="{...}" />
+                <marker date="1558320191000" expanded="true" signature="2520:2669" ph="{...}" />
+                <marker date="1558320191000" expanded="true" signature="2708:2831" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CoreAPI/Models/QrReqModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <folding>
+                <marker date="1556455142000" expanded="false" signature="6:96" ph="..." />
+                <marker date="1556455142000" expanded="true" signature="122:1095" ph="{...}" />
+                <marker date="1556455142000" expanded="true" signature="152:1093" ph="{...}" />
+                <marker date="1556455142000" expanded="true" signature="185:496" ph="{...}" />
+                <marker date="1556455142000" expanded="true" signature="527:650" ph="{...}" />
+                <marker date="1556455142000" expanded="true" signature="681:947" ph="{...}" />
+                <marker date="1556455142000" expanded="true" signature="980:1087" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CoreAPI/Models/QrBalanceModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-128">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <folding>
+                <marker date="1557028749000" expanded="false" signature="6:96" ph="..." />
+                <marker date="1557028749000" expanded="true" signature="122:1116" ph="{...}" />
+                <marker date="1557028749000" expanded="true" signature="156:1114" ph="{...}" />
+                <marker date="1557028749000" expanded="true" signature="196:264" ph="{...}" />
+                <marker date="1557028749000" expanded="true" signature="299:424" ph="{...}" />
+                <marker date="1557028749000" expanded="true" signature="456:964" ph="{...}" />
+                <marker date="1557028749000" expanded="true" signature="1001:1108" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CoreAPI/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-215">
+              <caret line="167" column="28" selection-start-line="167" selection-start-column="28" selection-end-line="167" selection-end-column="28" />
+              <folding>
+                <marker date="1559306589000" expanded="false" signature="73:713" ph="..." />
+                <marker date="1559306589000" expanded="true" signature="732:6968" ph="{...}" />
+                <marker date="1559306589000" expanded="true" signature="759:6966" ph="{...}" />
+                <marker date="1559306589000" expanded="true" signature="774:889" ph="/* public Startup(IConfiguration configuration) ... */" />
+                <marker date="1559306589000" expanded="true" signature="939:1345" ph="{...}" />
+                <marker date="1559306589000" expanded="true" signature="1395:1449" ph="{...}" />
+                <marker date="1559306589000" expanded="true" signature="1495:1557" ph="{...}" />
+                <marker date="1559306589000" expanded="true" signature="1597:1659" ph="{...}" />
+                <marker date="1559306589000" expanded="true" signature="1703:1765" ph="{...}" />
+                <marker date="1559306589000" expanded="true" signature="1814:1876" ph="{...}" />
+                <marker date="1559306589000" expanded="true" signature="1926:1988" ph="{...}" />
+                <marker date="1559306589000" expanded="true" signature="2031:2093" ph="{...}" />
+                <marker date="1559306589000" expanded="true" signature="2146:2208" ph="{...}" />
+                <marker date="1559306589000" expanded="true" signature="2264:2326" ph="{...}" />
+                <marker date="1559306589000" expanded="true" signature="2495:2933" ph="{...}" />
+                <marker date="1559306589000" expanded="true" signature="2864:2923" ph="/* HttpClientFactory ... */" />
+                <marker date="1559306589000" expanded="true" signature="3012:3985" ph="{...}" />
+                <marker date="1559306589000" expanded="true" signature="3329:3527" ph="{...}" />
+                <marker date="1559306589000" expanded="true" signature="3728:3973" ph="{...}" />
+                <marker date="1559306589000" expanded="true" signature="4203:5328" ph="{...}" />
+                <marker date="1559306589000" expanded="true" signature="4250:4327" ph="{...}" />
+                <marker date="1559306589000" expanded="true" signature="4344:4403" ph="{...}" />
+                <marker date="1559306589000" expanded="true" signature="5400:6835" ph="{...}" />
+                <marker date="1559306589000" expanded="true" signature="5450:6823" ph="{...}" />
+                <marker date="1559306589000" expanded="true" signature="5573:5834" ph="{...}" />
+                <marker date="1559306589000" expanded="true" signature="5923:6197" ph="{...}" />
+                <marker date="1559306589000" expanded="true" signature="6362:6807" ph="{...}" />
+                <marker date="1559306589000" expanded="true" signature="6460:6723" ph="{...}" />
+                <marker date="1559306589000" expanded="true" signature="6551:6697" ph="{...}" />
+                <marker date="1559306589000" expanded="true" signature="6845:6960" ph="/* public static string GetConnectionString() ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>gateway:iJoozQR</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/CoreAPI/Models/QrBalanceModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CoreAPI/Controllers/QrBalanceController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CoreAPI/Models/QrReqModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CoreAPI/Controllers/TopUpQRController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CoreAPI/Models/eWalletModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CoreAPI/Common/SHA256.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CoreAPI/Service/iJoozAPI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CoreAPI/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CoreAPI/Common/httpclientService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CoreAPI/AppSettingsJson.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CoreAPI/Service/eWalletAPI.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="130" />
+    <option name="y" value="23" />
+    <option name="width" value="1310" />
+    <option name="height" value="817" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="QR-API" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="QR-API" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="QR_API" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="QR-API" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="QR_API" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Common" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="QR-API" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="QR_API" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="QR-API" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="QR_API" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Service" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="QR-API" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="QR_API_Test" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="QR_API: CoreAPI" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/CoreAPI/QR_API.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="CoreAPI" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c10b8384-f418-4c6b-82d3-a946f0a717d8" name="Default Changelist" comment="" />
+      <created>1564328455063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564328455063</updated>
+      <workItem from="1564328459734" duration="416000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="416000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="130" y="23" width="1310" height="817" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="Azure Explorer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Azure Activity Log" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="REST Client" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CoreAPI/Models/eWalletModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <marker date="1558320000000" expanded="false" signature="6:96" ph="..." />
+            <marker date="1558320000000" expanded="true" signature="122:583" ph="{...}" />
+            <marker date="1558320000000" expanded="true" signature="154:581" ph="{...}" />
+            <marker date="1558320000000" expanded="true" signature="206:575" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreAPI/Controllers/TopUpQRController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+          <folding>
+            <marker date="1559307701000" expanded="false" signature="6:597" ph="..." />
+            <marker date="1559307701000" expanded="true" signature="628:5814" ph="{...}" />
+            <marker date="1559307701000" expanded="true" signature="785:5812" ph="{...}" />
+            <marker date="1559307701000" expanded="true" signature="928:1029" ph="{...}" />
+            <marker date="1559307701000" expanded="true" signature="1058:1215" ph="[...]" />
+            <marker date="1559307701000" expanded="true" signature="1292:5806" ph="{...}" />
+            <marker date="1559307701000" expanded="true" signature="1577:1676" ph="{...}" />
+            <marker date="1559307701000" expanded="true" signature="1878:1981" ph="{...}" />
+            <marker date="1559307701000" expanded="true" signature="2021:2126" ph="{...}" />
+            <marker date="1559307701000" expanded="true" signature="2256:2316" ph="{...}" />
+            <marker date="1559307701000" expanded="true" signature="2762:2829" ph="{...}" />
+            <marker date="1559307701000" expanded="true" signature="2951:3055" ph="{...}" />
+            <marker date="1559307701000" expanded="true" signature="3282:4909" ph="{...}" />
+            <marker date="1559307701000" expanded="true" signature="3664:3780" ph="{...}" />
+            <marker date="1559307701000" expanded="true" signature="4127:4252" ph="{...}" />
+            <marker date="1559307701000" expanded="true" signature="4273:4766" ph="{...}" />
+            <marker date="1559307701000" expanded="true" signature="4461:4585" ph="{...}" />
+            <marker date="1559307701000" expanded="true" signature="4610:4748" ph="{...}" />
+            <marker date="1559307701000" expanded="true" signature="4960:5068" ph="{...}" />
+            <marker date="1559307701000" expanded="true" signature="5139:5686" ph="{...}" />
+            <marker date="1559307701000" expanded="true" signature="5193:5672" ph="{...}" />
+            <marker date="1559307701000" expanded="true" signature="5740:5793" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreAPI/Service/iJoozAPI.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <marker date="1558046747000" expanded="false" signature="6:136" ph="..." />
+            <marker date="1558046747000" expanded="true" signature="163:3740" ph="{...}" />
+            <marker date="1558046747000" expanded="true" signature="191:3738" ph="{...}" />
+            <marker date="1558046747000" expanded="true" signature="407:3732" ph="{...}" />
+            <marker date="1558046747000" expanded="false" signature="430:2034" ph="NotUse: HttpWebRequest" />
+            <marker date="1558046747000" expanded="true" signature="473:2011" ph="/* var queryParams = new Dictionary&lt;string, string&gt;() ... */" />
+            <marker date="1558046747000" expanded="true" signature="2090:3722" ph="{...}" />
+            <marker date="1558046747000" expanded="true" signature="3291:3549" ph="{...}" />
+            <marker date="1558046747000" expanded="true" signature="3588:3708" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreAPI/Service/eWalletAPI.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <marker date="1558320191000" expanded="false" signature="6:179" ph="..." />
+            <marker date="1558320191000" expanded="true" signature="206:2865" ph="{...}" />
+            <marker date="1558320191000" expanded="true" signature="236:2863" ph="{...}" />
+            <marker date="1558320191000" expanded="true" signature="333:1051" ph="{...}" />
+            <marker date="1558320191000" expanded="true" signature="398:1041" ph="{...}" />
+            <marker date="1558320191000" expanded="true" signature="625:867" ph="{...}" />
+            <marker date="1558320191000" expanded="true" signature="906:1026" ph="{...}" />
+            <marker date="1558320191000" expanded="true" signature="1160:1704" ph="{...}" />
+            <marker date="1558320191000" expanded="true" signature="1411:1469" ph="{...}" />
+            <marker date="1558320191000" expanded="true" signature="1562:1619" ph="{...}" />
+            <marker date="1558320191000" expanded="true" signature="1636:1694" ph="{...}" />
+            <marker date="1558320191000" expanded="true" signature="1884:2856" ph="{...}" />
+            <marker date="1558320191000" expanded="true" signature="1949:2846" ph="{...}" />
+            <marker date="1558320191000" expanded="true" signature="2520:2669" ph="{...}" />
+            <marker date="1558320191000" expanded="true" signature="2708:2831" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreAPI/Models/QrReqModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <marker date="1556455142000" expanded="false" signature="6:96" ph="..." />
+            <marker date="1556455142000" expanded="true" signature="122:1095" ph="{...}" />
+            <marker date="1556455142000" expanded="true" signature="152:1093" ph="{...}" />
+            <marker date="1556455142000" expanded="true" signature="185:496" ph="{...}" />
+            <marker date="1556455142000" expanded="true" signature="527:650" ph="{...}" />
+            <marker date="1556455142000" expanded="true" signature="681:947" ph="{...}" />
+            <marker date="1556455142000" expanded="true" signature="980:1087" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreAPI/Models/QrBalanceModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-128">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <marker date="1557028749000" expanded="false" signature="6:96" ph="..." />
+            <marker date="1557028749000" expanded="true" signature="122:1116" ph="{...}" />
+            <marker date="1557028749000" expanded="true" signature="156:1114" ph="{...}" />
+            <marker date="1557028749000" expanded="true" signature="196:264" ph="{...}" />
+            <marker date="1557028749000" expanded="true" signature="299:424" ph="{...}" />
+            <marker date="1557028749000" expanded="true" signature="456:964" ph="{...}" />
+            <marker date="1557028749000" expanded="true" signature="1001:1108" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreAPI/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-215">
+          <caret line="167" column="28" selection-start-line="167" selection-start-column="28" selection-end-line="167" selection-end-column="28" />
+          <folding>
+            <marker date="1559306589000" expanded="false" signature="73:713" ph="..." />
+            <marker date="1559306589000" expanded="true" signature="732:6968" ph="{...}" />
+            <marker date="1559306589000" expanded="true" signature="759:6966" ph="{...}" />
+            <marker date="1559306589000" expanded="true" signature="774:889" ph="/* public Startup(IConfiguration configuration) ... */" />
+            <marker date="1559306589000" expanded="true" signature="939:1345" ph="{...}" />
+            <marker date="1559306589000" expanded="true" signature="1395:1449" ph="{...}" />
+            <marker date="1559306589000" expanded="true" signature="1495:1557" ph="{...}" />
+            <marker date="1559306589000" expanded="true" signature="1597:1659" ph="{...}" />
+            <marker date="1559306589000" expanded="true" signature="1703:1765" ph="{...}" />
+            <marker date="1559306589000" expanded="true" signature="1814:1876" ph="{...}" />
+            <marker date="1559306589000" expanded="true" signature="1926:1988" ph="{...}" />
+            <marker date="1559306589000" expanded="true" signature="2031:2093" ph="{...}" />
+            <marker date="1559306589000" expanded="true" signature="2146:2208" ph="{...}" />
+            <marker date="1559306589000" expanded="true" signature="2264:2326" ph="{...}" />
+            <marker date="1559306589000" expanded="true" signature="2495:2933" ph="{...}" />
+            <marker date="1559306589000" expanded="true" signature="2864:2923" ph="/* HttpClientFactory ... */" />
+            <marker date="1559306589000" expanded="true" signature="3012:3985" ph="{...}" />
+            <marker date="1559306589000" expanded="true" signature="3329:3527" ph="{...}" />
+            <marker date="1559306589000" expanded="true" signature="3728:3973" ph="{...}" />
+            <marker date="1559306589000" expanded="true" signature="4203:5328" ph="{...}" />
+            <marker date="1559306589000" expanded="true" signature="4250:4327" ph="{...}" />
+            <marker date="1559306589000" expanded="true" signature="4344:4403" ph="{...}" />
+            <marker date="1559306589000" expanded="true" signature="5400:6835" ph="{...}" />
+            <marker date="1559306589000" expanded="true" signature="5450:6823" ph="{...}" />
+            <marker date="1559306589000" expanded="true" signature="5573:5834" ph="{...}" />
+            <marker date="1559306589000" expanded="true" signature="5923:6197" ph="{...}" />
+            <marker date="1559306589000" expanded="true" signature="6362:6807" ph="{...}" />
+            <marker date="1559306589000" expanded="true" signature="6460:6723" ph="{...}" />
+            <marker date="1559306589000" expanded="true" signature="6551:6697" ph="{...}" />
+            <marker date="1559306589000" expanded="true" signature="6845:6960" ph="/* public static string GetConnectionString() ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreAPI/AppSettingsJson.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <marker date="1556446420000" expanded="false" signature="6:191" ph="..." />
+            <marker date="1556446420000" expanded="true" signature="210:1202" ph="{...}" />
+            <marker date="1556446420000" expanded="true" signature="252:1200" ph="{...}" />
+            <marker date="1556446420000" expanded="true" signature="313:508" ph="{...}" />
+            <marker date="1556446420000" expanded="true" signature="567:1192" ph="{...}" />
+            <marker date="1556446420000" expanded="true" signature="812:1145" ph="/* IHostingEnvironment env; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreAPI/Common/httpclientService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <marker date="1557669444000" expanded="false" signature="6:160" ph="..." />
+            <marker date="1557669444000" expanded="true" signature="179:1843" ph="{...}" />
+            <marker date="1557669444000" expanded="true" signature="216:1841" ph="{...}" />
+            <marker date="1557669444000" expanded="true" signature="306:1077" ph="{...}" />
+            <marker date="1557669444000" expanded="true" signature="332:929" ph="{...}" />
+            <marker date="1557669444000" expanded="true" signature="407:915" ph="{...}" />
+            <marker date="1557669444000" expanded="true" signature="686:897" ph="{...}" />
+            <marker date="1557669444000" expanded="true" signature="962:1042" ph="{...}" />
+            <marker date="1557669444000" expanded="true" signature="1142:1835" ph="{...}" />
+            <marker date="1557669444000" expanded="true" signature="1168:1687" ph="{...}" />
+            <marker date="1557669444000" expanded="true" signature="1243:1673" ph="{...}" />
+            <marker date="1557669444000" expanded="true" signature="1389:1655" ph="{...}" />
+            <marker date="1557669444000" expanded="true" signature="1720:1800" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreAPI/Common/SHA256.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <marker date="1557905723000" expanded="false" signature="6:114" ph="..." />
+            <marker date="1557905723000" expanded="true" signature="140:881" ph="{...}" />
+            <marker date="1557905723000" expanded="true" signature="176:879" ph="{...}" />
+            <marker date="1557905723000" expanded="true" signature="231:403" ph="{...}" />
+            <marker date="1557905723000" expanded="true" signature="454:873" ph="{...}" />
+            <marker date="1557905723000" expanded="true" signature="736:817" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreAPI/Controllers/QrBalanceController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <folding>
+            <marker date="1559307701000" expanded="false" signature="6:411" ph="..." />
+            <marker date="1559307701000" expanded="true" signature="442:1983" ph="{...}" />
+            <marker date="1559307701000" expanded="true" signature="603:1981" ph="{...}" />
+            <marker date="1559307701000" expanded="true" signature="748:849" ph="{...}" />
+            <marker date="1559307701000" expanded="true" signature="953:1393" ph="{...}" />
+            <marker date="1559307701000" expanded="true" signature="1039:1215" ph="{...}" />
+            <marker date="1559307701000" expanded="true" signature="1423:1571" ph="[...]" />
+            <marker date="1559307701000" expanded="true" signature="1650:1975" ph="{...}" />
+            <marker date="1559307701000" expanded="true" signature="1908:1962" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

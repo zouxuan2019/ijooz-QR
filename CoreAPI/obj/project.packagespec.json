@@ -1,0 +1,78 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/zouxuan/NusWorkspace/Cloud Native/iJooz-Final/ijooz-QR/CoreAPI/QR_API.csproj",
+    "projectName": "QR_API",
+    "projectPath": "/Users/zouxuan/NusWorkspace/Cloud Native/iJooz-Final/ijooz-QR/CoreAPI/QR_API.csproj",
+    "outputPath": "/Users/zouxuan/NusWorkspace/Cloud Native/iJooz-Final/ijooz-QR/CoreAPI/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Dapper": {
+          "target": "Package",
+          "version": "[1.60.6, )"
+        },
+        "Microsoft.AspNetCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Microsoft.AspNetCore.Razor.Design": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
+          "target": "Package",
+          "version": "[2.2.11, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+          "target": "Package",
+          "version": "[2.2.3, )"
+        },
+        "Swashbuckle.AspNetCore": {
+          "target": "Package",
+          "version": "[5.0.0-rc2, )"
+        },
+        "Swashbuckle.AspNetCore.Annotations": {
+          "target": "Package",
+          "version": "[5.0.0-rc2, )"
+        },
+        "log4net.AspNetCore": {
+          "target": "Package",
+          "version": "[1.0.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
